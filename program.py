@@ -1,6 +1,6 @@
 nama = input("Masukkan nama: ")
 luas = float(input("Masukkan luas lahan (ha): "))
 
-print("\nData Panen Sawit Kelompok B")
+print("\nData Panen Sawit Anggota B")
 print("Nama:", nama)
 print("Luas lahan:", luas, "ha")
